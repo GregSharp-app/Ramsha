@@ -1,0 +1,24 @@
+Antialiasing, إزالة التسنن
+Antisymmetric, لا متماثل
+Anti virus, مضاد فيروسات
+Antivirus, مضاد فيروسات
+Antivirus software, برنامج مضاد للفيروسات
+Anytime algorithm, خوارزمية لا وقتية
+API, واجهة برمجة التطبيقات
+Apostrophe, فاصلة عليا
+Appear, ظهور
+Append, إلحاق
+Applet, بريمج
+Application, تطبيق
+Application Launcher, مشغل التطبيق
+Applix, 
+Apply, تطبيق
+Appointment, موعد
+Approval, إقرار
+Approve, إقرار
+Approved, مصادق عليه
+Approximate, تقريبي
+Approximation algorithm, خوارزمية تقريب
+Arabisation, 
+Arabization, 
+Arbitrary, كيفي
