@@ -1,0 +1,12 @@
+{
+  "game_latest_version": "1.0.0",
+  "urls": {
+    "dictionary": {
+      "url": "https://gregsharp-app.github.io/Ramsha/dictionary.txt",
+      "version": "2"
+    },
+    "daily_level": {
+      "url": "https://gregsharp-app.github.io/Ramsha/daily_level.txt"
+    }
+  }
+}
